@@ -1,7 +1,9 @@
 👋 Hi, I'm Pratik Chandrabhan Malunjkar
 
 🎓 MCA Student (2024–2026)
+
 ☁️ Cloud & Application Engineering Enthusiast
+
 📊 Data Analysis • APIs • Azure • Python
 
 📌 About Me
