@@ -1,57 +1,119 @@
-👋 Hi, I'm Pratik Chandrabhan Malunjkar
+# 👋 Hi, I'm Pratik Chandrabhan Malunjkar
 
 🎓 MCA Student (2024–2026)
+💻 Aspiring Full Stack & Backend Developer
+☁️ Azure Certified (AZ-900) | API Development | SQL | Node.js
 
-☁️ Cloud & Application Engineering Enthusiast
+---
 
-📊 Data Analysis • APIs • Azure • Python
+## 🚀 About Me
 
-📌 About Me
+I'm an MCA student passionate about building scalable web applications and backend services.
 
-MCA student with strong fundamentals in Java, C++, Python, SQL, and analytics.
+I enjoy solving real-world problems through clean code and practical software solutions. My experience includes developing REST APIs, database-driven applications, and cloud-enabled projects using modern technologies.
 
-Worked with Finsys ERP during my internship, improving reporting workflows and data accuracy.
+Currently, I'm strengthening my skills in **JavaScript, Node.js, Express.js, PostgreSQL, React, and Next.js** while preparing for Full Stack Developer roles.
 
-Hands-on experience with Python EDA, Power BI dashboards, and cloud-enabled projects.
+---
 
-Interested in Application Engineering, API Development, Cloud Platforms, and Problem Solving.
+## 🛠 Tech Stack
 
-I believe in clean logic, robust architecture, and building things that genuinely help people.
+### Languages
 
-🛠️ Skills
+* JavaScript
+* Python
+* Java
+* SQL
+* C++
 
-Languages: Java, C++, Python, C
-Web / APIs: HTML, CSS, JavaScript (basics), REST APIs
-Databases / Tools: SQL, Power BI, Excel, Finsys ERP
-Cloud & Platforms: Microsoft Azure (AZ-900 In Progress), Firebase, Streamlit
-Version Control: Git, GitHub
+### Frontend
 
-🌟 Featured Projects
-📊 Data Analysis using Python & Power BI
+* HTML5
+* CSS3
+* React (Learning)
+* Next.js (Learning)
 
-Performed exploratory analysis on real datasets using Pandas, NumPy, and Matplotlib.
-Created interactive Power BI dashboards to visualize KPIs and business trends.
+### Backend
 
-🎧 Moodify – AI-Based Music Recommender
+* Node.js
+* Express.js
+* REST APIs
 
-Emotion detection using DeepFace (FER-2013) to recommend curated playlists via YouTube/Spotify APIs.
-Deployed using Streamlit with Firebase-based user data storage.
+### Database
 
-🔧 Mini REST API Project
+* PostgreSQL
+* MySQL
 
-A simple CRUD-style API simulation to demonstrate backend workflows, modular design, and JSON data exchange.
+### Cloud & Tools
 
-📫 Connect With Me
+* Microsoft Azure (AZ-900 Certified)
+* Git
+* GitHub
+* Linux
+* Firebase
+* Postman
+* Power BI
 
-LinkedIn: https://www.linkedin.com/in/pratik-malunjkar-17233125b
+---
 
-GitHub: https://github.com/PratikMalunjkar
+## 📌 Featured Projects
 
-Email: pratikmalunjkar570@gmail.com
+### 📚 Library Service Management Backend
 
-🎯 Fun & Interactive
+* Built a backend application using Node.js and Express.js.
+* Designed RESTful APIs for book and user management.
+* Integrated PostgreSQL/MySQL for persistent data storage.
+* Implemented CRUD operations and modular project architecture.
 
-💡 Dev Insight
+**Tech Stack:** Node.js • Express.js • PostgreSQL • REST API
 
-“The best way to predict the future is to create it...”
+---
 
+### 🎵 Moodify – AI Music Recommendation System
+
+* Developed an emotion-based music recommendation system.
+* Used DeepFace for emotion detection.
+* Integrated YouTube/Spotify APIs for playlist recommendations.
+* Deployed with Streamlit and Firebase.
+
+**Tech Stack:** Python • DeepFace • Firebase • Streamlit
+
+---
+
+### 📊 Data Analysis Dashboard
+
+* Performed Exploratory Data Analysis using Python.
+* Built interactive Power BI dashboards.
+* Generated business insights from real-world datasets.
+
+**Tech Stack:** Python • Pandas • NumPy • Power BI
+
+---
+
+## 📜 Certifications
+
+* ✅ Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+## 🌱 Currently Learning
+
+* React.js
+* Next.js
+* TypeScript
+* System Design
+* Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/pratik-malunjkar-17233125b](http://www.linkedin.com/in/pratik-malunjkar-17233125b)
+* 💻 GitHub: github.com/PratikMalunjkar
+* 📧 Email: [pratikmalunjkar570@gmail.com](mailto:pratikmalunjkar570@gmail.com)
+
+---
+
+## 💡 Quote
+
+> *"The best way to predict the future is to create it."*
